@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**victorealeal/victorealeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Victor Leal
 
-Here are some ideas to get you started:
+Aspiring Data Analyst | Python | SQL | Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building my skills in Data Analytics and Data Science, with a focus on transforming data into meaningful insights and supporting data-driven decision making.
+
+## Currently Learning
+
+- Python
+- SQL
+- Statistics
+- Git & GitHub
+- Data Visualization
+- Machine Learning Fundamentals
+
+## Goals
+
+- Build a strong Data Analytics portfolio
+- Develop real-world data projects
+- Advance in Data Science and Machine Learning
+- Contribute to open-source and collaborative projects
+
+## Connect
+
+LinkedIn: linkedin.com/in/victor-leal-a0b4a1133 
